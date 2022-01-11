@@ -4,8 +4,6 @@ using Interface;
 namespace Interface{
 
 enum Pestes{
-          Paulo,
-          MariaAlice,
           Kiara,
           Juli
 }
@@ -40,7 +38,7 @@ class Animal : IAnimal{
 class Henrique{
 
        static void Main(string[] args){
-          var peste1 =  (Pestes)3;
+          var peste1 =  (Pestes)1;
               Console.WriteLine(peste1);
                                                           
          }
