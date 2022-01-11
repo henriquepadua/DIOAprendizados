@@ -1,5 +1,5 @@
 ﻿using Pilhass;
-
+using Interface;
 namespace Programs
 {
     class Program
@@ -18,8 +18,13 @@ namespace Programs
             Console.WriteLine(chaps.Desempilha());
             Console.WriteLine(chaps.Desempilha());
 
+            var peste1 =  (Pestes)1;
+    
+          Console.WriteLine(peste1);
+                                                         
+         }
+
 
         }
 
     }
-}

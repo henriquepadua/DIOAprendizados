@@ -35,11 +35,3 @@ class Animal : IAnimal{
 }
 }
 
-class Henrique{
-
-       static void Main(string[] args){
-          var peste1 =  (Pestes)1;
-              Console.WriteLine(peste1);
-                                                          
-         }
-}
