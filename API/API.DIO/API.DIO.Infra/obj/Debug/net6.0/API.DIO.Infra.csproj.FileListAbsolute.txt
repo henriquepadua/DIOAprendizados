@@ -1,0 +1,12 @@
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\bin\Debug\net6.0\API.DIO.Infra.deps.json
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\bin\Debug\net6.0\API.DIO.Infra.dll
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\bin\Debug\net6.0\ref\API.DIO.Infra.dll
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\bin\Debug\net6.0\API.DIO.Infra.pdb
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\obj\Debug\net6.0\API.DIO.Infra.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\obj\Debug\net6.0\API.DIO.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\obj\Debug\net6.0\API.DIO.Infra.AssemblyInfoInputs.cache
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\obj\Debug\net6.0\API.DIO.Infra.AssemblyInfo.cs
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\obj\Debug\net6.0\API.DIO.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\obj\Debug\net6.0\API.DIO.Infra.dll
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\obj\Debug\net6.0\ref\API.DIO.Infra.dll
+C:\Users\Henrique\Documents\DIO\API\API.DIO\API.DIO.Infra\obj\Debug\net6.0\API.DIO.Infra.pdb
